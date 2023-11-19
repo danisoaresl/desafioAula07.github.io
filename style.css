@@ -16,7 +16,6 @@ body{
 
 }
 
-
 .cabecalho{
     height: 500px;
     background-size: cover;
@@ -74,6 +73,8 @@ body{
 }
 
 .cabecalho nav a:hover{  
+    background-color: #ffffff;
+    color:#A44EA6;
 }
 
 .cabecalho nav ul{
@@ -97,3 +98,15 @@ body{
     background: rgb(213, 248, 218);
     
 }
+
+.bg2 img:hover{
+    -webkit-transform: scale(1.9);
+    transform: scale(1.9);
+}
+
+@media screen and (min-width: 768px) { 
+    .topo {
+            }
+    .conteudo {
+    }
+  } 
