@@ -1,9 +1,7 @@
 # desafioAula07.github.io
 
-1.  Desafio desse projeto: altura do cabeçalho suficiente pra ocupar a página toda.
-2.  A imagem de fundo ficar fixa no fundo.
-3.  Formatar o main deixando cor de fundo para os títulos, estilizar margens, padding, bordas.
-4.  Colocar ícones ao lado esquerdo e parágrafo ao lado direito, os ícones precisam de uma propriedade
-5.  para flutuar do lado esquerdo, logo, o parágrafo irá ocupar todo lado direito disponível, colocar
-6.  zoom nos ícones ao passar o mouse.
-7.  Formatar footer com cor de fundo e texto centralizado.  
+Desafio deste projeto: garantir que a altura do cabeçalho seja suficiente para ocupar toda a página.
+Manter a imagem de fundo fixa no plano de fundo.
+Formatar a seção principal (main): definir a cor de fundo para os títulos, estilizar margens, padding e bordas.
+Posicionar ícones à esquerda e parágrafo à direita; os ícones devem ter uma propriedade de flutuação para o lado esquerdo. Como resultado, o parágrafo ocupará todo o espaço disponível à direita. Adicionalmente, implementar um efeito de zoom nos ícones ao passar o mouse.
+Formatar o rodapé (footer) com cor de fundo e centralizar o texto.
