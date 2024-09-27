@@ -1,4 +1,4 @@
-#desafioAula07.github.io
+desafioAula07.github.io
 
 Desafio deste projeto: garantir que a altura do cabeçalho seja suficiente para ocupar toda a página.
 Manter a imagem de fundo fixa no plano de fundo.
